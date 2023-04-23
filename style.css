@@ -1,4 +1,22 @@
+/* Center all elements in the middle*/
+
+
 /* CSS for the title */
 .title {
     color: darkblue;
 }
+
+/* CSS for the subtitle (section and date) */
+.subtitle {
+    color: blueviolet;
+}
+
+/* CSS for title background */
+.title-background {
+    background-color: aqua;
+    border-radius: 25px;
+    height: 200px;
+    padding: 20px;
+    width: 500px;
+}
+
